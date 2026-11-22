@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mezzo on Walnut//Holiday Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mezzo-holidays-20261212@mezzoonwalnut.com
+DTSTAMP:20261122T120000Z
+DTSTART:20261212T160000Z
+DTEND:20261212T200000Z
+SUMMARY:Home for the Holidays at Mezzo on Walnut
+LOCATION:606 Walnut Street\, Des Moines\, IA 50309
+DESCRIPTION:Free holiday open house with local artists\, makers\, cozy mystery authors\, holiday greenery\, Happy Homes Coffee\, a Nutcracker photo opportunity\, and tours of Mezzo on Walnut.
+URL:https://flysupes.github.io/mezzo-holidays/
+END:VEVENT
+END:VCALENDAR
